@@ -25,6 +25,15 @@
    Building application using intel oneDAL:The Intel oneAPI Data Analytics Library (oneDAL) contributes to the acceleration of big data     analysis by providing highly optimised algorithmic building blocks for all phases of data analytics (preprocessing, transformation,       analysis, modelling, validation, and decision making) in batch, online, and distributed processing modes of computation.The library       optimizes data ingestion along with algorithmic computation to increase throughput and scalability.
 ## Output
 
+<!DOCTYPE html>
+<html>
+<body>
+  
+  <iframe src="https://drive.google.com/file/d/17C6NuKpa6ToV6ZCxpdvtiQebK2VlKwbH/preview" width="640" height="480" allow="autoplay"></iframe>
+  
+  <!--aloow full screen add tag -->
+  
+<iframe allowfullscreen="allowfullscreen" src="your_page_url/preview" ></iframe>
 
-https://github.com/JerinJoe/intel-oneAPI/assets/93995601/e572cf84-f7f8-42fe-9663-4ea748f9e19c
-
+</body>
+</html>
