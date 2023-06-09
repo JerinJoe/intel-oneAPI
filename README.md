@@ -33,7 +33,7 @@
   
   <!--aloow full screen add tag -->
   
-<iframe allowfullscreen="allowfullscreen" src="your_page_url/preview" ></iframe>
+<iframe allowfullscreen="allowfullscreen" src="https://drive.google.com/file/d/17C6NuKpa6ToV6ZCxpdvtiQebK2VlKwbH/preview" ></iframe>
 
 </body>
 </html>
