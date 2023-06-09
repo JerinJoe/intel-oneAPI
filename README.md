@@ -8,9 +8,10 @@
   This section must include UML Daigrms and prototype description
   
 ## Tech Stack: 
-   Ultralytics
+   Ultralytics 
    OneAPI-OneDNN-OpenVINO
-   
+   ![image](https://github.com/JerinJoe/intel-oneAPI/assets/93995601/07c1e300-4b29-4c9b-9463-4819ac6f1867)
+
    
 ## Step-by-Step Code Execution Instructions:
   This Section must contain set of instructions required to clone and run the prototype, so that it can be tested and deeply analysed
