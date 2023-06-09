@@ -26,7 +26,7 @@
 ## Output
 
 
-[link for the output](https://github.com/JerinJoe/intel-oneAPI/assets/72353689/614ce126-504b-413b-a9ef-74dd2e22571e)
+[link for the output](https://drive.google.com/file/d/17C6NuKpa6ToV6ZCxpdvtiQebK2VlKwbH/view?usp=drive_link)
 
 
 
