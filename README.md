@@ -15,7 +15,7 @@
 
    
 ## Step-by-Step Code Execution Instructions:
-  This Section must contain set of instructions required to clone and run the prototype, so that it can be tested and deeply analysed
+  [Link for presentiation](https://docs.google.com/presentation/d/1mYwygJNaTMwEMxwWohpnZ_QaQYB7xpanj_uw8tNpXng/edit?usp=drive_link)
   
 ## What I Learned:
    Key learning points during this phase was learning to integrate OneAPI along with our Object detection ML model
@@ -26,7 +26,7 @@
 ## Output
 
 
-https://github.com/JerinJoe/intel-oneAPI/assets/72353689/614ce126-504b-413b-a9ef-74dd2e22571e
+[link for the output](https://github.com/JerinJoe/intel-oneAPI/assets/72353689/614ce126-504b-413b-a9ef-74dd2e22571e)
 
 
 
